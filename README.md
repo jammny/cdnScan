@@ -3,7 +3,7 @@
 
 基于"站长之家"的多地ping功能服务，利用爬虫实现批量识别使用了CDN的站点。
 
-# 环境初始化
+## 环境初始化
 
 步骤一： 下载谷歌浏览器以及对应版本的驱动(https://sites.google.com/a/chromium.org/chromedriver/downloads) 或者下载云盘链接(https://cloud.189.cn/t/3UFBbqaEnQBn (访问码:xlt7))
 
